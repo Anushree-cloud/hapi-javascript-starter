@@ -1,0 +1,19 @@
+{
+  "name": "hapi-javascript-starter",
+  "version": "1.0.0",
+  "description": "complete javascript interface in hapi.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anushree-cloud/hapi-javascript-starter.git"
+  },
+  "author": "Anushree Chakraborty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anushree-cloud/hapi-javascript-starter/issues"
+  },
+  "homepage": "https://github.com/Anushree-cloud/hapi-javascript-starter#readme"
+}
