@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anushree-cloud/hapi-javascript-starter/issues"
   },
-  "homepage": "https://github.com/Anushree-cloud/hapi-javascript-starter#readme"
+  "homepage": "https://github.com/Anushree-cloud/hapi-javascript-starter#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.2.1"
+  }
 }

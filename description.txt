@@ -1,1 +1,0 @@
-remote repo: https://github.com/Anushree-cloud/hapi-javascript-starter.git
